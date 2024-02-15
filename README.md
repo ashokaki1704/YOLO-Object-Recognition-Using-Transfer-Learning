@@ -1,10 +1,14 @@
 # YOLO-Object-Recognition-Using-Transfer-Learning
 This repository contains the implementation of You Only Look Once (YOLO) object recognition using transfer learning. YOLO is a real-time object detection system that can detect and classify objects in an image or video stream. Transfer learning allows us to leverage pre-trained models and fine-tune them for specific tasks.
 Project Overview
-Objective: Build an accurate and efficient object detection model using YOLO and transfer learning.
-Dataset: We use a custom dataset containing annotated images of various objects.
-Model: We start with a pre-trained YOLO model and fine-tune it on our dataset.
-Evaluation: Evaluate the model’s performance using metrics like precision, recall, and mean average precision (mAP).
+Objective: 
+Build an accurate and efficient object detection model using YOLO and transfer learning.
+Dataset: 
+We use a custom dataset containing annotated images of various objects.
+Model:
+We start with a pre-trained YOLO model and fine-tune it on our dataset.
+Evaluation:
+Evaluate the model’s performance using metrics like precision, recall, and mean average precision (mAP).
 Deployment: Deploy the trained model for real-time object detection.
 Steps to Reproduce
 Data Collection:
